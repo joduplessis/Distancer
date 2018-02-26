@@ -9,7 +9,7 @@ Install the package via GitHub with `npm install https://github.com/joduplessis/
 
 This example assumes ES6 usage.
 ```
-import { Distancer } from './Distancer';
+import { Distancer } from 'distancer';
 
 // Instantiate the class
 const distancer = new Distancer();
